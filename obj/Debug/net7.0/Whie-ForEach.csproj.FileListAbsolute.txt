@@ -1,0 +1,15 @@
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\bin\Debug\net7.0\Whie-ForEach.exe
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\bin\Debug\net7.0\Whie-ForEach.deps.json
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\bin\Debug\net7.0\Whie-ForEach.runtimeconfig.json
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\bin\Debug\net7.0\Whie-ForEach.dll
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\bin\Debug\net7.0\Whie-ForEach.pdb
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.csproj.AssemblyReference.cache
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.AssemblyInfoInputs.cache
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.AssemblyInfo.cs
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.dll
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\refint\Whie-ForEach.dll
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.pdb
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\Whie-ForEach.genruntimeconfig.cache
+C:\Users\rabia\Documents\C# Eğitim Aşamaları vs code\Whie-ForEach\obj\Debug\net7.0\ref\Whie-ForEach.dll
